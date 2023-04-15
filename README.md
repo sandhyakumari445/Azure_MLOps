@@ -1,4 +1,4 @@
-# Gemstone Price Prediction - Utkarsh Gaikwad
+# Gemstone Price Prediction - Sandhya Kumari
 
 ### Introduction About the Data :
 
@@ -33,10 +33,6 @@ Dataset Source Link :
 
 AWS Elastic Beanstalk link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/)
 
-# Screenshot of UI
-
-![HomepageUI](./Screenshots/HomepageUI.jpg)
-
 # YouTube Video Link
 
 Link for YouTube Video : Click the below thumbnail to open 
@@ -47,9 +43,6 @@ Link for YouTube Video : Click the below thumbnail to open
 
 API Link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/predictAPI](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/predictAPI)
 
-# Postman Testing of API :
-
-![API Prediction](./Screenshots/APIPrediction.jpg)
 
 # Approach for the project 
 
@@ -75,14 +68,4 @@ API Link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elast
 5. Flask App creation : 
     * Flask app is created with User Interface to predict the gemstone prices inside a Web Application.
 
-# Exploratory Data Analysis Notebook
 
-Link : [EDA Notebook](./notebook/1_EDA_Gemstone_price.ipynb)
-
-# Model Training Approach Notebook
-
-Link : [Model Training Notebook](./notebook/2_Model_Training_Gemstone.ipynb)
-
-# Model Interpretation with LIME 
-
-Link : [LIME Interpretation](./notebook/3_Explainability_with_LIME.ipynb)
